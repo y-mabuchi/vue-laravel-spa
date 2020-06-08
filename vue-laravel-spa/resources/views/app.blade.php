@@ -15,7 +15,7 @@
 </head>
 <body>
     <div id="app">
-        test
+        <header-component></header-component>
     </div>
 
     <!-- Scripts -->
