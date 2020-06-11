@@ -51,7 +51,7 @@ Run migarate in docker container.
 ```terminal
 $ docker-compose exec app bash
 $ cd vue-laravel-spa
-$ php artisan 
+$ php artisan migrate --seed
 ```
 
 ## Install Dependancies
